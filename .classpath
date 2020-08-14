@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/rbrossi/Downloads/jung-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rbrossi/Downloads/jung-algorithms-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rbrossi/Downloads/jung-visualization-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rbrossi/Downloads/blueprints-graph-jung-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rbrossi/Downloads/jung-graph-impl-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rbrossi/Downloads/collections-generic-4.01.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
